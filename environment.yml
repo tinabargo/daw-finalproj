@@ -1,0 +1,5 @@
+name: daw
+dependencies:
+  - pyfim
+  - pandas
+  - flask
